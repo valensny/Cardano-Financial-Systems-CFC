@@ -1,0 +1,2 @@
+# Cardano-Financial-Systems-CFC
+Make it simple for Public, Private, and Non-For-Profits (NFP) fund applicants to submit and track their applications or proposals in one intuitive, branded portal or software application based on Cardano Operating Systems (COS). There is a lack of saving hours with powerful automation for potential fund seekers and fund providers, especially in public or private and NFP bureaucratic structures. 
